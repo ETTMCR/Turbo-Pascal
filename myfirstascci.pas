@@ -1,0 +1,34 @@
+program myfirstascci;
+begin
+writeln('                                     / \\              ');
+writeln('                                   //   \\\            ');
+writeln('                                 ///      \\\\         ');
+writeln('                               /////       \\\\\       ');
+writeln('                             ////////       /-\        ');
+writeln('                           ///////////      \_/        ');
+writeln('                         /////////////                 ');
+writeln('                       ////////////////                ');
+writeln('                    ////////////////////               ');
+writeln('                                                       ');
+writeln('                ////////////      \\\\\\\\\\\\         ');
+writeln('                000000     /    //   000000            ');
+writeln('                0    0    /    ///   0    0            ');
+writeln('                 00000   /     ////   00000            ');
+writeln('                         \-//-\////                    ');
+writeln('                                                       ');
+writeln('                    /////////////////                  ');
+writeln('                    //            //                   ');
+writeln('                     /////////////                     ');
+writeln('                        /////////                      ');
+writeln('                         //////                        ');
+writeln('                          ////                         ');
+writeln('                          ///                          ');
+writeln();
+writeln();
+writeln();
+writeln();
+writeln();
+writeln('i was very board in the computers'  );
+writeln  (' lesson in the date 25.12.02 and ' );
+writeln      ('this is santa');
+ end.
